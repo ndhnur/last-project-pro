@@ -31,7 +31,7 @@ defineProps({
 <style>
 .input-wrapper {
     padding: 0.375rem 0.75rem;
-    width: 200px;
+    width: 100%;
     text-align: center;
     align-items: center;
     overflow: hidden;
