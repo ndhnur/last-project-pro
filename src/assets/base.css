@@ -50,11 +50,14 @@
     }
 }
 
+/* gara-gara ini nimpa style punya nya font awesome..jadi ilang*/
 *,
 *::after {
     box-sizing: border-box;
     margin: 0;
     font-weight: normal;
+  box-sizing: border-box;
+  margin: 0;
 }
 
 body {
